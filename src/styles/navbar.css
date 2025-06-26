@@ -1,0 +1,17 @@
+.navbar-nav .nav-link {
+    font-size: 20px;
+}
+.mode-icons-light {
+  color: #fad906 !important; 
+}
+
+.mode-icons-dark {
+  color: #000000 !important; 
+}
+
+.navbar .btn {
+  background: none !important;
+  border: none !important;
+  padding: 4px 8px;
+  box-shadow: none;
+}
