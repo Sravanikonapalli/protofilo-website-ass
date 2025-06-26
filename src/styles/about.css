@@ -136,7 +136,7 @@
 }
 
 .about-divider {
-  width: 800px;
+  width: 500px;
   height: 2px;
   background-color: #999;
   flex-shrink: 1;
